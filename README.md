@@ -22,7 +22,12 @@ The Incident Response Team needs to find and nuke the identity involved in the o
 e.g. John Bridge (account being abused) accessed VPN and started with enumeration. John Bridge account should be nuked. 
 
 ## What does "nuke" account mean? 
-- Disable On-Prem
+### On-Prem
+- Disable Account
 - Remove Logon Hours
 - Change password
+
+### In the Cloud
+- Change password
+- Create a tactical group, that has conditions. e.g. Create a group, anyone in that group should be denied access to any cloud resource as part of a Conditional Access Policy (If using Entra ID) 
 
