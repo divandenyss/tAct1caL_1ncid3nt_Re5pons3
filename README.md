@@ -32,7 +32,7 @@ The road, in this case, is the "source", your passport is the "identity", and th
 The Incident Response Team needs to find and nuke the identity involved in the ongoing attacks. 
 e.g. John Bridge (account being abused) accessed VPN and started with enumeration. John Bridge's account should be nuked. 
 
-## What does "nuke" account mean? 
+## What does "nuke" the identity mean? 
 ### On-Prem
 - Disable Account
 - Remove Logon Hours
