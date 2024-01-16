@@ -13,7 +13,7 @@ Threat Actors need access to your environment in some way, shape, or form.
 ## Common Entry Points
 - VPN, VPN, VPN
 - Leaked Credentials
-- Internet Facing Servers (Outlook Web Apps, 
+- Internet Facing Servers 
 - Public Facing Management Ports (3389, 22, 5985, 21)
 - Public Facing Login Interfaces
 
