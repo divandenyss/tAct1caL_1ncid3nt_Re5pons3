@@ -17,4 +17,12 @@ Threat Actors need access to your environment in some way, shape, or form.
 - Public Facing Management Ports (3389, 22, 5985, 21)
 - Public Facing Login Interfaces
 
+## Credentials are KING
+The Incident Response Team needs to find and nuke the identity involved in the ongoing attacks. 
+e.g. John Bridge (account being abused) accessed VPN and started with enumeration. John Bridge account should be nuked. 
+
+## What does "nuke" account mean? 
+- Disable On-Prem
+- Remove Logon Hours
+- Change password
 
