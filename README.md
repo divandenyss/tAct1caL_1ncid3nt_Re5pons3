@@ -23,6 +23,9 @@ Threat Actors need access to your environment in some way, shape, or form.
 # Break the "source", "service" and "identity" 
 E.g. Lets say you are traveling to a foreign country by road. For you to get there, you need a passport, a road, and a car. 
 The road, in this case, is the "source", your passport is the "identity", and the car is your "service".
+- Removing the "road/source" will cut comms and connection.
+- Nuking the "passport/identity will ensure no further lateral movement or enumeration
+- Cutting the "car/service" will ensure no further connection, as same with "source" 
 
 ## Credentials are KING
 The Incident Response Team needs to find and nuke the identity involved in the ongoing attacks. 
