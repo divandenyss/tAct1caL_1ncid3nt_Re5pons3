@@ -28,6 +28,7 @@ e.g. John Bridge (account being abused) accessed VPN and started with enumeratio
 - Change password
 
 ### In the Cloud
+- Revoke Session, this will kick the unwanted actor out of all logged-in applications.
 - Change password
 - Create a tactical group, that has conditions. e.g. Create a group, anyone in that group should be denied access to any cloud resource as part of a Conditional Access Policy (If using Entra ID) 
 
